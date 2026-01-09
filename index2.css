@@ -50,3 +50,10 @@ h1 {
 .content-box a{
     margin-top: 16px;
 }
+
+#position{
+  height: 300px;
+  display: flex;
+  align-items: flex-end
+  
+}
